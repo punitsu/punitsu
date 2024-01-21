@@ -1,4 +1,12 @@
-### Hi there 👋
+           __  _
+       .-.'  `; `-._  __  _
+      (_,         .-:'  `; `-._
+    ,'o"(        (_,           )
+   (__,-'      ,'o"(            )>
+      (       (__,-'            )
+       `-'._.--._(             )
+          |||  |||`-'._.--._.-'
+                     |||  |||
 
 <!--
 **punitsu/punitsu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
